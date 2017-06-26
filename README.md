@@ -4,20 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+June 20, 2017
 ### Student Name:  
-(First and Last Name)
+Brian Pearson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+In this assignment, I coded a tax calulator application for different tax brackets. 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bp15g.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to code a Document object to reference elements
+on a web page using an id value.
+2. I learned the concepts of if,if/else, and nested statements.
+3. I learend the major difference in tax brackets when filing seperately.
 
